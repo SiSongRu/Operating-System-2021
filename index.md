@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+#      欢迎大家来到2021年操作系统课程主页(￣▽￣)／
+###    我们会把课程需要的资料全部放到这个网页里，大家可以根据自己的需求下载！
 
-You can use the [editor on GitHub](https://github.com/SiSongRu/Operating-System-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 课程介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果有任何关于课程、实验和教学方面的问题和建议，欢迎跟张老师以及助教们交流联系。
 
-### Markdown
+#### 老师
+姓名：张驰 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+办公室：西区科技西楼 907
 
-```markdown
-Syntax highlighted code block
+邮箱：chizhang@ustc.edu.cn
 
-# Header 1
-## Header 2
-### Header 3
+#### 助教
+姓名：茹思淞
 
-- Bulleted
-- List
+办公室：西区科技西楼 915
 
-1. Numbered
-2. List
+邮箱：rusisong@mail.ustc.edu.cn
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 课程教材
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 作业答案
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SiSongRu/Operating-System-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 实验内容Ｏ(≧▽≦)Ｏ
+
+
+
+### 实验布置
+
+
+### 实验教学视频
+
+
+
+
+
+### 参考教学视频
+
+* 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
+
+* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)
+
+
+
+
+### 课程幻灯片(*´・ｖ・)
+
+
+
