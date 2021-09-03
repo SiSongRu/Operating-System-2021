@@ -19,6 +19,18 @@
 
 邮箱：rusisong@mail.ustc.edu.cn
 
+姓名：揭一新
+
+办公室：西区科技西楼 915
+
+邮箱：jyx1@mail.ustc.edu.cn
+
+姓名：宁志强
+
+办公室：西区科技西楼 915
+
+邮箱：ningzq@163.com
+
 
 ### 课程教材
 
@@ -33,11 +45,11 @@
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
-<--！ * 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb) 
+<!--* 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb)-->
 
-* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/4dd59d50-0c69-11ec-86b7-518a1cf756f7) 
+<!--* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/4dd59d50-0c69-11ec-86b7-518a1cf756f7) -->
 
-* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/6c99d440-0c69-11ec-b309-c78b7d2f4587) -->
+<!--* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/6c99d440-0c69-11ec-b309-c78b7d2f4587) -->
 
 ### 实验布置
 
