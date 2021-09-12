@@ -73,4 +73,5 @@
 为了保证课件的内容都是最新的，每节课的课件会在课前再进行放上去。
 
 * 01-Overview [睿客云](https://rec.ustc.edu.cn/share/95884dc0-0e3a-11ec-81f1-2f79bd3d8718)（2021.9.5更新）
+* 02-OS Intro [睿客云](链接：https://rec.ustc.edu.cn/share/fefb0470-13e5-11ec-a5e4-334921d771ed) (2021.9.13更新)
 
