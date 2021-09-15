@@ -51,6 +51,11 @@
 
 <!--* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/6c99d440-0c69-11ec-b309-c78b7d2f4587) -->
 
+* 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9)(2021.9.15更新)
+
+* 实验环境安装手册 [睿客云](https://rec.ustc.edu.cn/share/e7675a40-1625-11ec-bdd8-7f2a85493b09)(2021.9.15更新)
+
+
 ### 实验布置
 
 
