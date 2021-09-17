@@ -55,7 +55,7 @@
 
 * 实验环境安装手册 [睿客云](https://rec.ustc.edu.cn/share/e7675a40-1625-11ec-bdd8-7f2a85493b09)(2021.9.15更新)
 
-* OS参考文献MIT_XV6(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/d29e0e60-1795-11ec-b0e1-0dd1af933dd2)
+* OS参考文献MIT_XV6(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/d29e0e60-1795-11ec-b0e1-0dd1af933dd2)(2021.9.17更新)
 ### 实验布置
 
 
