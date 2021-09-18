@@ -49,6 +49,8 @@
 
 * 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/cd1f00b0-181e-11ec-94f4-e545c81fecb3) (2021.9.18更新)
 
+* 实验参考书的GitBook版本（学堂在线的操作系统课程实验主页，可作为参考） [gitbook](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
+
 * 实验报告示例 [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26) (2021.9.18更新)
 
 * 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9) (2021.9.15更新)
