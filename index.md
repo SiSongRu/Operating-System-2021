@@ -53,7 +53,7 @@
 
 * 实验报告示例 [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26) (2021.9.18更新)
 
-* 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9) (2021.9.15更新)
+* 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/1ff97ca0-1862-11ec-b98e-3dbed89c4723) (2021.9.18更新)
 
 * 实验环境安装手册 [睿客云](https://rec.ustc.edu.cn/share/e7675a40-1625-11ec-bdd8-7f2a85493b09) (2021.9.15更新)
 
