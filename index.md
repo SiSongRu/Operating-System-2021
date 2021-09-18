@@ -47,9 +47,9 @@
 
 <!--* 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb)-->
 
-* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/b2eeb450-181d-11ec-8e28-a33604241ca5)
+* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/cd1f00b0-181e-11ec-94f4-e545c81fecb3)(2021.9.18更新)
 
-* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26) 
+* 实验报告示例 [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26)(2021.9.18更新)
 
 * 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9)(2021.9.15更新)
 
@@ -80,5 +80,6 @@
 为了保证课件的内容都是最新的，每节课的课件会在课前再进行放上去。
 
 * 01-Overview [睿客云](https://rec.ustc.edu.cn/share/95884dc0-0e3a-11ec-81f1-2f79bd3d8718)（2021.9.5更新）
+
 * 02-OS Intro [睿客云](https://rec.ustc.edu.cn/share/fefb0470-13e5-11ec-a5e4-334921d771ed) (2021.9.13更新)
 
