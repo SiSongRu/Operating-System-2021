@@ -47,9 +47,9 @@
 
 <!--* 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb)-->
 
-* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/4dd59d50-0c69-11ec-86b7-518a1cf756f7)
+* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/b2eeb450-181d-11ec-8e28-a33604241ca5)
 
-* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/6c99d440-0c69-11ec-b309-c78b7d2f4587) 
+* 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26) 
 
 * 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9)(2021.9.15更新)
 
