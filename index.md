@@ -45,7 +45,7 @@
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
-<!--* 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb)-->
+* 实验课课件 [课件](https://rec.ustc.edu.cn/share/cc4de730-1862-11ec-ae84-7de32fbd5ad2) (2021.9.18更新)
 
 * 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/cd1f00b0-181e-11ec-94f4-e545c81fecb3) (2021.9.18更新)
 
