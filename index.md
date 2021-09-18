@@ -47,15 +47,15 @@
 
 <!--* 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/1ed4cfc0-0c69-11ec-a8dd-31ada27927eb)-->
 
-* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/cd1f00b0-181e-11ec-94f4-e545c81fecb3)(2021.9.18更新)
+* 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/cd1f00b0-181e-11ec-94f4-e545c81fecb3) (2021.9.18更新)
 
-* 实验报告示例 [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26)(2021.9.18更新)
+* 实验报告示例 [链接](https://rec.ustc.edu.cn/share/bf09dd50-181d-11ec-a9cb-9198651edd26) (2021.9.18更新)
 
-* 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9)(2021.9.15更新)
+* 实验材料(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/9addde00-1621-11ec-8a40-7f563411bcb9) (2021.9.15更新)
 
-* 实验环境安装手册 [睿客云](https://rec.ustc.edu.cn/share/e7675a40-1625-11ec-bdd8-7f2a85493b09)(2021.9.15更新)
+* 实验环境安装手册 [睿客云](https://rec.ustc.edu.cn/share/e7675a40-1625-11ec-bdd8-7f2a85493b09) (2021.9.15更新)
 
-* OS参考文献MIT_XV6(链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/d29e0e60-1795-11ec-b0e1-0dd1af933dd2)(2021.9.17更新)
+* OS参考文献MIT_XV6 (链接密码：os2021) [睿客云](https://rec.ustc.edu.cn/share/d29e0e60-1795-11ec-b0e1-0dd1af933dd2) (2021.9.17更新)
 
 
 ### 实验布置
