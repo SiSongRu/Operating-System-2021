@@ -38,6 +38,11 @@
 
 * 教材补充材料以及课后扩展阅读 [下载地址](https://rec.ustc.edu.cn/share/f763c7d0-0c68-11ec-a97a-f147daafdb12)
 
+### 作业布置
+
+* 第一次作业：布置时间9月27日，提交时间10月11日晚上12点前 只提交电子版本，通过BB系统提交：
+P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition)
+P37: Problems 1.3,  1.4,  1.7, 1.8, 1.9 (8th Edition)
 
 ### 作业答案
 
@@ -97,4 +102,6 @@
 * 01-Overview [睿客云](https://rec.ustc.edu.cn/share/95884dc0-0e3a-11ec-81f1-2f79bd3d8718)（2021.9.5更新）
 
 * 02-OS Intro [睿客云](https://rec.ustc.edu.cn/share/fefb0470-13e5-11ec-a5e4-334921d771ed) (2021.9.13更新)
+
+* 03-Hardware Support [睿客云](https://rec.ustc.edu.cn/share/26f0be40-1ed2-11ec-a940-4f479dd404e0) (2021.9.26更新)
 
