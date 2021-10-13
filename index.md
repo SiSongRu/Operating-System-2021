@@ -107,5 +107,5 @@ P37: Problems 1.3,  1.4,  1.7, 1.8, 1.9 (8th Edition)
 
 * 04-Process Concept [睿客云](https://rec.ustc.edu.cn/share/39c9c6e0-2a4e-11ec-91cb-eb839aafe8cf)(2021.10.11更新)
 
-* 05-05-Thread & IPC [睿客云](https://rec.ustc.edu.cn/share/b55cd8c0-2c14-11ec-a645-e18945d5601d)(2021.10.13更新)
+* 05-Thread & IPC [睿客云](https://rec.ustc.edu.cn/share/b55cd8c0-2c14-11ec-a645-e18945d5601d)(2021.10.13更新)
 
