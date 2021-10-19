@@ -109,3 +109,4 @@ P37: Problems 1.3,  1.4,  1.7, 1.8, 1.9 (8th Edition)
 
 * 05-Thread & IPC [睿客云](https://rec.ustc.edu.cn/share/b55cd8c0-2c14-11ec-a645-e18945d5601d)(2021.10.13更新)
 
+* 06-Process Schedule [睿客云](https://rec.ustc.edu.cn/share/3a6d38c0-30cb-11ec-a760-6fce64bdd81f)(2021.10.18更新)
