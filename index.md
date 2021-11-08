@@ -62,7 +62,7 @@
 
 * 操作系统第一次作业答案 [坚果云](https://www.jianguoyun.com/p/DVCmvrAQ7YrdCBi805gE)(2021.11.8更新)
 
-* 操作系统第一次作业补充说明 [j坚果云](https://www.jianguoyun.com/p/Da0HK68Q7YrdCBjL05gE)(2021.11.8更新)
+* 操作系统第一次作业补充说明 [坚果云](https://www.jianguoyun.com/p/Da0HK68Q7YrdCBjL05gE)(2021.11.8更新)
 
 * 操作系统第二次作业答案 [坚果云](https://www.jianguoyun.com/p/DfEKISAQ7YrdCBjG05gE)(2021.11.8更新)
 
