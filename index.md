@@ -126,3 +126,5 @@
 * 06-Process Schedule [睿客云](https://rec.ustc.edu.cn/share/3a6d38c0-30cb-11ec-a760-6fce64bdd81f)(2021.10.18更新)
 
 * 07-Mutual Exclusion [睿客云](https://rec.ustc.edu.cn/share/85c332c0-36e8-11ec-9dc6-bbb8b380b461)(2021.10.27更新)
+
+* 08-Synchronization [坚果云](https://www.jianguoyun.com/p/DRuzfDcQ7YrdCBiCxpgE)(2021.11.8更新)
