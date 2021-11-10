@@ -133,4 +133,4 @@
 
 * 08-Synchronization [坚果云](https://www.jianguoyun.com/p/DRuzfDcQ7YrdCBiCxpgE)(2021.11.8更新)
 
-* 09-DeadLock [睿客云](链接：https://rec.ustc.edu.cn/share/36917bd0-41e1-11ec-934b-711b97d9a941)(2021.11.10更新)
+* 09-DeadLock [睿客云](https://rec.ustc.edu.cn/share/36917bd0-41e1-11ec-934b-711b97d9a941)(2021.11.10更新)
