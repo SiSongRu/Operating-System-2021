@@ -72,7 +72,7 @@
 
 * 操作系统第二次作业答案 [坚果云](https://www.jianguoyun.com/p/DfEKISAQ7YrdCBjG05gE)(2021.11.8更新)
 
-* 操作系统第三次作业答案 [睿客云](https://rec.ustc.edu.cn/share/e90f2060-4752-11ec-aae0-a7728bf28be8)
+* 操作系统第三次作业答案 [睿客云](https://rec.ustc.edu.cn/share/e90f2060-4752-11ec-aae0-a7728bf28be8)(2021.11.17更新)
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
