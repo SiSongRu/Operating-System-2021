@@ -74,7 +74,7 @@
 
 * 操作系统第三次作业答案 [睿客云](https://rec.ustc.edu.cn/share/e90f2060-4752-11ec-aae0-a7728bf28be8)(2021.11.17更新)
 
-<!-- * 操作系统第四次作业答案 [睿客云](https://rec.ustc.edu.cn/share/b9a91480-49f2-11ec-a0ec-19fac1740e83)(2021.11.21更新)  -->
+* 操作系统第四次作业答案 [睿客云](https://rec.ustc.edu.cn/share/b9a91480-49f2-11ec-a0ec-19fac1740e83)(2021.11.21更新)
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
