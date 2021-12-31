@@ -76,6 +76,10 @@
 
 * 操作系统第四次作业答案 [睿客云](https://rec.ustc.edu.cn/share/b9a91480-49f2-11ec-a0ec-19fac1740e83)(2021.11.21更新)
 
+* 操作系统第五次作业答案 [睿客云](https://rec.ustc.edu.cn/share/78acc3e0-6a4f-11ec-ba28-c1eb9fbea1d3)(2021.12.31更新)
+
+* 操作系统第六次作业答案 [睿客云](https://rec.ustc.edu.cn/share/6900da40-6a4f-11ec-bdde-593afaeb7691)(2021.12.31更新)
+
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
 * 实验课课件 [课件](https://rec.ustc.edu.cn/share/cc4de730-1862-11ec-ae84-7de32fbd5ad2) (2021.9.18更新)
